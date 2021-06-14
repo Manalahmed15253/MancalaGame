@@ -7,3 +7,5 @@ rules right, then we moved to the minimax with alpha-beta
 pruning to make the AI chooses the best available move in a given 
 depth, then we update the board based on the game rules and 
 the mode of the game
+# Youtube Link Showing the Game in Action
+https://youtu.be/BtbKeDZ1zaY
